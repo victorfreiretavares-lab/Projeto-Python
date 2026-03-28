@@ -1,6 +1,5 @@
 # Projeto com Python
-Primeiro projeto feito inteiramente com Alura
-Muito útil para me adaptar com as principais funções.
+Primeiro projeto feito inteiramente com aulas da plataforma Alura. Foi muito útil para me adaptar com as principais funções.
 Além disso, muito divertido e rápido montar esse projeto.
 
 Fique a vontade para analisar o código. Tentei deixar documentado da melhor maneira.
